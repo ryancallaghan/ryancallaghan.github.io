@@ -4,11 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
  Hi, I'm Ryan! <br><br>
  I am a junior studying Mechanical Engineering at Stevens Institute of Technology. I have experience with 3D design using SolidWorks, and AutoCAD. I have a passion for the medical device and technology industry and hope to pursue a career in this area.
  <br><br>
- Contact me:
+ Contact me:<br>
   ryanmcallaghan3@gmail.com <br>
   347-681-0910
-  
   <br><br>
+  <a "/pdf/sample_presentation.pdf">Resume</a>
   <a href="https://www.linkedin.com/in/ryan-callaghan-396b27184/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
