@@ -11,7 +11,7 @@
 ### Design Projects 
 
 [Garden Pest Deterrent](/sample_page)
-<img src="images/Owl Project.jpg?raw=true"/>
+<img src="images/owl better.jpg?raw=true"/>
 
 ---
 [ Functioning Power Saw](/pdf/sample_presentation.pdf)
