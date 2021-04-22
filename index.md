@@ -23,7 +23,7 @@
 
 ---
 [Mouse](http://example.com/)
-<img src="images/Mouse Assembly.pdf?raw=true"/>
+<img src="pdf/Mouse Assembly.pdf?raw=true"/>
 ---
 ### Other Engineering Projects
 
