@@ -18,7 +18,7 @@
 <img src="images/Power Saw.jpg?raw=true"/>
 
 ---
-[Adjustable & Flexable Headphones](http://example.com/)
+[Adjustable & Flexible Headphones](http://example.com/)
 <img src="images/Headphones2.jpg?raw=true"/>
 
 ---
