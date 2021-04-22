@@ -8,7 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   ryanmcallaghan3@gmail.com <br>
   347-681-0910
   <br><br>
-  <a "/pdf/Ryan Callaghan Resume.pdf">Resume</a>
+  [Resume](/pdf/sample_presentation.pdf)<br>
+  <a href="/pdf/Ryan Callaghan Resume.pdf">Resume</a> <br>
   <a href="https://www.linkedin.com/in/ryan-callaghan-396b27184/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
