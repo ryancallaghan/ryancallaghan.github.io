@@ -24,7 +24,9 @@
 ---
 [Customized Mouse](http://example.com/)
 <img src="images/mouse assembly.jpg?raw=true"/>
+
 ---
+
 ### Other Engineering Projects
 
 - [Weather Monitor](http://example.com/)
