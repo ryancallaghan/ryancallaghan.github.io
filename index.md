@@ -2,14 +2,14 @@
 
 ---
 
-### Design Project 
+### Design Projects 
 
 [Garden Pest Deterrent](/sample_page)
-<img src="images/Front of owl.png?raw=true"/>
+<img src="images/Owl Project.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/Back of owl.png?raw=true"/>
+<img src="images/owl Back.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
