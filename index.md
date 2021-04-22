@@ -14,15 +14,15 @@
 <img src="images/Owl Project.jpg?raw=true"/>
 
 ---
-[Power Saw](/pdf/sample_presentation.pdf)
+[ Functioning Power Saw](/pdf/sample_presentation.pdf)
 <img src="images/Power Saw.jpg?raw=true"/>
 
 ---
-[Headphones](http://example.com/)
+[Adjustable & Flexable Headphones](http://example.com/)
 <img src="images/headphones.jfif?raw=true"/>
 
 ---
-[Mouse](http://example.com/)
+[Customized Mouse](http://example.com/)
 <img src="images/mouse assembly.jpg?raw=true"/>
 ---
 ### Other Engineering Projects
