@@ -19,7 +19,7 @@
 
 ---
 [Adjustable & Flexable Headphones](http://example.com/)
-<img src="images/Headphones2.png?raw=true"/>
+<img src="images/Headphones2.jpg?raw=true"/>
 
 ---
 [Customized Mouse](http://example.com/)
