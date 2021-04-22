@@ -1,4 +1,8 @@
 ## About Me
+---
+ Hi, I'm Ryan! <br><br>
+ I am a junior studying Mechanical Engineering at Stevens Institute of Technology. I have experience with 3D design using SolidWorks, and AutoCAD. I have a passion for the medical device and technology industry and hope to pursue a career in this area.
+ <br><br>
 
 ## Portfolio
 
