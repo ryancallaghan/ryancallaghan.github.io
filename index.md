@@ -4,7 +4,7 @@
 
 ### Design Project 
 
-Garden Pest Deterrent(/sample_page)
+[Garden Pest Deterrent](/sample_page)
 <img src="images/Front of owl.png?raw=true"/>
 
 ---
