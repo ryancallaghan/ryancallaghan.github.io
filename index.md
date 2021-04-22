@@ -1,7 +1,7 @@
 ## About Me
 ---
  Hi, I'm Ryan! <br><br>
- I am a junior studying Mechanical Engineering at Stevens Institute of Technology. I have experience with 3D design using SolidWorks, and AutoCAD. I have a passion for the medical device and technology industry and hope to pursue a career in this area.
+ I am a junior studying Mechanical Engineering at Stevens Institute of Technology. I have experience with 3D computer-aided design using SolidWorks, AutoCAD, Creo and ANSYS. I have a passion for design, and would love to use my passion to develop products that enhance peoples lives. In particular, I want to become involved in the medical device and technology industry. Besides my academic interests, I am a very active person, and have been swimming since I was 5 years old. I also love to spend time with family and friends.
  <br><br>
 
 ## Portfolio
@@ -14,22 +14,23 @@
 <img src="images/Owl Project.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Power Saw](/pdf/sample_presentation.pdf)
 <img src="images/owl back.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Headphones](http://example.com/)
 <img src="images/Owl Head Turns 360deg.MOV?raw=true"/>
 
 ---
+[Mouse](http://example.com/)
 
-### Category Name 2
+---
+### Other Engineering Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Weather Monitor](http://example.com/)
+- [Autonomous Robot](http://example.com/)
+- [Truss](http://example.com/)
+- [Speaker Crossover Network](http://example.com/)
 
 ---
 
@@ -37,5 +38,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
