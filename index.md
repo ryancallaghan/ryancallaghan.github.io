@@ -29,9 +29,9 @@
 
 ### Other Engineering Projects
 
-- [Weather Monitor](pdf/Weather Monitor (1).pdf)
+- <a href="/pdf/Weather Monitor (1).pdf">[Weather Monitor]</a> <br>
 - [Autonomous Robot]()
-- [Truss](pdf/Truss Design.pdf)
+- <a href="/pdf/Truss Design.pdf">[Truss]</a> <br>
 - [Speaker Crossover Network](http://example.com/)
 
 ---
