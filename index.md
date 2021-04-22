@@ -30,7 +30,7 @@
 ### Other Engineering Projects
 
 - <a href="/pdf/Weather Monitor (1).pdf">Weather Monitor</a> <br>
-- [Autonomous Robot]()
+- <a href="/pdf/Robot Project.pdf">Autonomous Robot</a> <br>
 - <a href="/pdf/Truss Design.pdf">Truss</a> <br>
 - [Speaker Crossover Network](http://example.com/)
 
