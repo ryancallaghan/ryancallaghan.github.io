@@ -15,15 +15,15 @@
 
 ---
 [Power Saw](/pdf/sample_presentation.pdf)
-<img src="images/owl back.jpg?raw=true"/>
+<img src="images/Power Saw.jpg?raw=true"/>
 
 ---
 [Headphones](http://example.com/)
-<img src="images/Owl Head Turns 360deg.MOV?raw=true"/>
+<img src="images/headphones.jfif?raw=true"/>
 
 ---
 [Mouse](http://example.com/)
-
+<img src="images/Mouse Assembly.pdf?raw=true"/>
 ---
 ### Other Engineering Projects
 
