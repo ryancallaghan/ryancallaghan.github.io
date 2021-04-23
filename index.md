@@ -10,7 +10,7 @@
 
 ### Design Projects 
 
-[Garden Pest Deterrent](/sample_page)
+<a href="/pdf/owlspy.pdf">Garden Pest Deterrent</a> <br>
 <img src="images/owl better.jpg?raw=true"/>
 
 ---
@@ -32,7 +32,7 @@
 - <a href="/pdf/Weather Monitor (1).pdf">Weather Monitor</a> <br>
 - <a href="/pdf/Robot Project.pdf">Autonomous Robot</a> <br>
 - <a href="/pdf/Truss Design.pdf">Truss</a> <br>
-- [Speaker Crossover Network](http://example.com/)
+- <a href="/pdf/Green Street Presnentation (1).pdf">Green Street Plan</a> <br>
 
 ---
 
