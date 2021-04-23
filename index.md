@@ -14,8 +14,8 @@
 <img src="images/owl better.jpg?raw=true"/>
 
 ---
-[ Functioning Power Saw](/pdf/sample_presentation.pdf)
-<img src="images/Power Saw.jpg?raw=true"/>
+<a href="/pdf/Power Saw.pdf">Functioning Power Saw</a> <br>
+<img src="images/gibayy.gif?raw=true"/>
 
 ---
 [Adjustable & Flexible Headphones](http://example.com/)
