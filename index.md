@@ -18,11 +18,11 @@
 <img src="images/gibayy.gif?raw=true"/>
 
 ---
-[Adjustable & Flexible Headphones](http://example.com/)
+[Adjustable & Flexible Headphones]()
 <img src="images/Headphones2.jpg?raw=true"/>
 
 ---
-[Customized Mouse](http://example.com/)
+[Customized Mouse]()
 <img src="images/mouse assembly.jpg?raw=true"/>
 
 ---
