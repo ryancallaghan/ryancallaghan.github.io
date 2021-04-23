@@ -32,7 +32,7 @@
 - <a href="/pdf/Weather Monitor (1).pdf">Weather Monitor</a> <br>
 - <a href="/pdf/Robot Project.pdf">Autonomous Robot</a> <br>
 - <a href="/pdf/Truss Design.pdf">Truss</a> <br>
-- <a href="/pdf/Green Street Presnentation (1).pdf">Green Street Plan</a> <br>
+- <a href="/pdf/Green Street Presentation (1).pdf">Green Street Plan</a> <br>
 
 ---
 
