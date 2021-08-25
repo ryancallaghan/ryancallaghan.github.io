@@ -1,7 +1,7 @@
 ## About Me
 ---
  Hi, I'm Ryan! <br><br>
- I am a senior studying Mechanical Engineering concentrating in Biomedical Engineering at Stevens Institute of Technology. I have experience with 3D computer-aided design, drafting technical reports, conducting research on medical products, and working in crossfunctional teams. I want to help develop medical devices that enhance and even save peoples lives. Besides my academic experiences, I am a very active person. I have been swimming since I was 5 years old, and enjoy going snowboarding in the winter. I also love socializing and meeting new people.
+ I am a senior studying Mechanical Engineering concentrating in Biomedical Engineering at Stevens Institute of Technology. I have experience with 3D computer-aided design, drafting technical reports, conducting research on medical products, and working in crossfunctional teams. I want to help develop medical devices that enhance and even save peoples lives. Besides my work experiences, I am a very active person. I have been swimming since I was 5 years old, and enjoy going snowboarding in the winter. I also love socializing and meeting new people.
  <br><br>
 
 ## Portfolio
