@@ -6,10 +6,26 @@
  <br><br>
 
 ## Portfolio
+---
+
+### Biofeedback Device Study 
+
+<a href="/pdf/BME 561 Final Presentation.pdf">Analyzing the Effects of Posture on Respiration</a> <br>
+<a href="/pdf/Effect of Posture on Respiration Final Paper.pdf">(Report)</a> <br>
+<img src="images/Breathing.png?raw=true"/>
 
 ---
 
-### Design Projects 
+### Senior Design Project 
+
+<a href="/pdf/Milestone 5 Presentation (1) (1).pdf">Personalized Ankle Exoskeleton</a> <br>
+<a href="/pdf/Milestone 5 Presentation (1) (1).pdf">(Report)</a> <br>
+<img src="images/AnkleExo.jpg?raw=true"/>
+
+---
+---
+
+### Other Design Projects 
 
 <a href="/pdf/owlspy.pdf">Garden Pest Deterrent</a> <br>
 <img src="images/owl better.jpg?raw=true"/>
