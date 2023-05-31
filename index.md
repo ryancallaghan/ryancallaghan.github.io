@@ -19,7 +19,6 @@
 ### Senior Design Project 
 
 <a href="/pdf/Milestone 5 Presentation (1) (1).pdf">Personalized Ankle Exoskeleton</a> <br>
-<a href="/pdf/Milestone 5 Presentation (1) (1).pdf">(Report)</a> <br>
 <img src="images/AnkleExo.jpg?raw=true"/>
 
 ---
